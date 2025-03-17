@@ -1,0 +1,2 @@
+# myvimrc
+file ~/.vimrc
